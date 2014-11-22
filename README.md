@@ -6,14 +6,14 @@
 >This program will be able to be ported to  OSX UNIX and Windows
 
 >1. it will allow you create a recipe
->2  it will allow you save a recipe
->3  it will allow you find a recipe
->4  it will allow you amend a recipe
->5  it will allow you send to a markdown or html file
+>2.  it will allow you save a recipe
+>3.  it will allow you find a recipe
+>4.  it will allow you amend a recipe
+>5.  it will allow you send to a markdown or html file
 
-A recipe will have a title
-A recipe will have a list of ingredients
-A recipe will have a list of instructions
+>A recipe will have a title
+>A recipe will have a list of ingredients
+>A recipe will have a list of instructions
 A recipe will have a list of tags
 
 The interface will be very simple
